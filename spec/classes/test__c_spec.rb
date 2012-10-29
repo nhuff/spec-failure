@@ -1,5 +1,5 @@
 require 'spec_helper'
 
-describe 'test::a::b' do
+describe 'test::c' do
   it {}
 end
